@@ -9,12 +9,9 @@ Tutorial sebelum menggunakan:
 2. Extract file di folder Htdocs
 3. Buka Phpmyadmin
 4. Create Database
-5. Buat nama database nya "db_cms.sql" (tanpa "")
+5. Buat nama database nya "db_cms" (tanpa "")
 6. OK
-7. Buka database yang dibuat tadi di Mysql
-8. Import
-9. Choose File
-10. Upload
+7. Import database "db_cms.sql" (tanpa "")
 11. buka browser
 12. ketik sesuai nama folder di HTdocs
 11. selamat menjalankan
